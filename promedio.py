@@ -71,20 +71,24 @@ if De == al:
 
 if De == nl:
     os.system("cls")
+    os.system("clear")
     exit()
      
  
          
 if De == nh:
     os.system("cls")
+    os.system("clear")
     exit()
     
 if De == np:
     os.system("cls")
+    os.system("clear")
     exit()
 
 if De == en:
     os.system("cls")
+    os.system("clear")
     exit()
 
 
@@ -145,18 +149,22 @@ if soc == kj:
 
 if soc == cd:
     os.system("cls")
+    os.system("clear")
     exit()
     
 if soc == cg:
     os.system("cls")
+    os.system("clear")
     exit()
     
 if soc == cy:
     os.system("cls")
+    os.system("clear")
     exit()
     
 if De == en:
     os.system("cls")
+    os.system("clear")
     exit()
 
 #Proceso sociales 
@@ -217,18 +225,22 @@ if nat == ny:
 
 if nat == de:
     os.system("cls")
+    os.system("clear")
     exit()
     
 if nat == ws:
     os.system("cls")
+    os.system("clear")
     exit()
     
 if nat == wu:
     os.system("cls")
+    os.system("clear")
     exit()
 
 if nat == en:
     os.system("cls")
+    os.system("clear")
     exit()
 
 #proceso Naturales
@@ -252,6 +264,7 @@ l = input("PRESIONA CUALQUIER TECLA PARA CERRAR")
 print(Fore.BLUE + "*************************************")
 time.sleep(0.5)
 os.system("cls")
+os.system("clear")
 print("GRACIAS POR USAR MI PROGRAMA")
 
 
